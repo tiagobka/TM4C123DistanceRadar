@@ -1,0 +1,10 @@
+.\objects\test.o: test.c
+.\objects\test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\test.o: ..\..\..\..\inc/hw_gpio.h
+.\objects\test.o: ..\..\..\..\inc/hw_types.h
+.\objects\test.o: ..\..\..\..\inc/hw_memmap.h
+.\objects\test.o: ..\..\..\..\driverlib/sysctl.h
+.\objects\test.o: ..\..\..\..\driverlib/pin_map.h
+.\objects\test.o: ..\..\..\..\driverlib/gpio.h
+.\objects\test.o: ..\..\..\..\driverlib/pwm.h

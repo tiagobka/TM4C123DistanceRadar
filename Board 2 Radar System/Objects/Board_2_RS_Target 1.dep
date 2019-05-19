@@ -1,0 +1,32 @@
+Dependencies for Project 'Board_2_RS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_rvmdk.S)(0x5CD324A9)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I"D:\CmpE Programs\Keil_v5\ARM\RV31\INC"-I"D:\CmpE Programs\Keil_v5\ARM\CMSIS\Include"-I"D:\CmpE Programs\Keil_v5\ARM\INC\TI\TM4C123"--pd "__UVISION_VERSION SETA 525"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (..\..\..\..\driverlib\rvmdk\driverlib.lib)(0x5C5229D2)()
+F (.\Lab9_main.c)(0x5CDDC30A)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\.. --c99-I"D:\CmpE Programs\Keil_v5\ARM\RV31\INC"-I"D:\CmpE Programs\Keil_v5\ARM\CMSIS\Include"-I"D:\CmpE Programs\Keil_v5\ARM\INC\TI\TM4C123"-D__UVISION_VERSION="525" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\objects\lab9_main.o --omf_browse .\objects\lab9_main.crf --depend .\objects\lab9_main.d)
+I (D:\CmpE Programs\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599FAE2E)
+I (D:\CmpE Programs\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599FAE2E)
+I (D:\CmpE Programs\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599FAE2C)
+I (asdf.h)(0x5CBD566F)
+I (..\..\..\..\inc/hw_types.h)(0x5C5229D4)
+I (..\..\..\..\inc/hw_memmap.h)(0x5C5229D4)
+I (..\..\..\..\inc/hw_gpio.h)(0x5C5229D4)
+I (..\..\..\..\driverlib/sysctl.h)(0x5C5229D2)
+I (..\..\..\..\driverlib/pin_map.h)(0x5C5229D2)
+I (..\..\..\..\driverlib/gpio.h)(0x5C5229D2)
+I (..\..\..\..\inc/tm4c123gh6pm.h)(0x5CC779F8)
+I (LCD1602A.h)(0x5CCF8B71)
+I (..\..\..\..\driverlib/interrupt.h)(0x5C5229D2)
+I (..\..\..\..\driverlib/uart.h)(0x5C5229D2)
+F (.\LCD1602A.h)(0x5CCF8B71)()
+F (.\LCD1602A.c)(0x5CCD439A)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\.. --c99-I"D:\CmpE Programs\Keil_v5\ARM\RV31\INC"-I"D:\CmpE Programs\Keil_v5\ARM\CMSIS\Include"-I"D:\CmpE Programs\Keil_v5\ARM\INC\TI\TM4C123"-D__UVISION_VERSION="525" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\objects\lcd1602a.o --omf_browse .\objects\lcd1602a.crf --depend .\objects\lcd1602a.d)
+I (D:\CmpE Programs\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599FAE2E)
+I (D:\CmpE Programs\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599FAE2E)
+I (D:\CmpE Programs\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599FAE2C)
+I (asdf.h)(0x5CBD566F)
+I (..\..\..\..\inc/hw_types.h)(0x5C5229D4)
+I (..\..\..\..\inc/hw_memmap.h)(0x5C5229D4)
+I (..\..\..\..\inc/hw_gpio.h)(0x5C5229D4)
+I (..\..\..\..\driverlib/sysctl.h)(0x5C5229D2)
+I (..\..\..\..\driverlib/pin_map.h)(0x5C5229D2)
+I (..\..\..\..\driverlib/gpio.h)(0x5C5229D2)
+I (..\..\..\..\inc/tm4c123gh6pm.h)(0x5CC779F8)
+I (LCD1602A.h)(0x5CCF8B71)
